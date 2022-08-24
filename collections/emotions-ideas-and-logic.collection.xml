@@ -1,239 +1,57 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Mark Rozen Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12023</md:content-id>
-  <md:title>Emotions, Ideas and Logic</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>a5210f2a-aa18-4826-b388-cdb6a39bf2e9</md:uuid>
-<md:slug>emotions-ideas-and-logic</md:slug>
-</metadata>
-
+    <md:content-id>col12023</md:content-id>
+    <md:title>Emotions, Ideas and Logic</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>a5210f2a-aa18-4826-b388-cdb6a39bf2e9</md:uuid>
+    <md:slug>emotions-ideas-and-logic</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m62084"/>
-        
-      
-    
-    
-      <col:module document="m62065"/>
-        
-      
-    
-    
-      <col:module document="m62057"/>
-        
-      
-    
-    
-      <col:module document="m62054"/>
-        
-      
-    
-    
-      <col:module document="m29595"/>
-        
-      
-    
-    
-      <col:module document="m61607"/>
-        
-      
-    
-    
-      <col:module document="m60372"/>
-        
-      
-    
-    
-      <col:module document="m60366"/>
-        
-      
-    
-    
-      <col:module document="m14334"/>
-        
-      
-    
-    
-      <col:module document="m60049"/>
-        
-      
-    
-    
-      <col:module document="m60048"/>
-        
-      
-    
-    
-      <col:module document="m60040"/>
-        
-      
-    
-    
-      <col:module document="m60032"/>
-        
-      
-    
-    
-      <col:module document="m60012"/>
-        
-      
-    
-    
-      <col:module document="m60008"/>
-        
-      
-    
-    
-      <col:module document="m59693"/>
-        
-      
-    
-    
-      <col:module document="m59315"/>
-        
-      
-    
-    
-      <col:module document="m58160"/>
-        
-      
-    
-    
-      <col:module document="m58122"/>
-        
-      
-    
-    
-      <col:module document="m58124"/>
-        
-      
-    
-    
-      <col:module document="m58116"/>
-        
-      
-    
-    
-      <col:module document="m58117"/>
-        
-      
-    
-    
-      <col:module document="m58121"/>
-        
-      
-    
-    
-      <col:module document="m57938"/>
-        
-      
-    
-    
-      <col:module document="m56759"/>
-        
-      
-    
-    
-      <col:module document="m57804"/>
-        
-      
-    
-    
-      <col:module document="m57790"/>
-        
-      
-    
-    
-      <col:module document="m57706"/>
-        
-      
-    
-    
-      <col:module document="m57755"/>
-        
-      
-    
-    
-      <col:module document="m57754"/>
-        
-      
-    
-    
-      <col:module document="m57753"/>
-        
-      
-    
-    
-      <col:module document="m57752"/>
-        
-      
-    
-    
-      <col:module document="m57750"/>
-        
-      
-    
-    
-      <col:module document="m57749"/>
-        
-      
-    
-    
-      <col:module document="m57748"/>
-        
-      
-    
-    
-      <col:module document="m57699"/>
-        
-      
-    
-    
-      <col:module document="m57458"/>
-        
-      
-    
-    
-      <col:module document="m52681"/>
-        
-      
-    
-    
-      <col:module document="m52492"/>
-        
-      
-    
-    
-      <col:module document="m52491"/>
-        
-      
-    
-    
-      <col:module document="m52067"/>
-        
-      
-    
-    
-      <col:module document="m51859"/>
-        
-      
-    
-    
-      <col:module document="m50398"/>
-        
-      
-    
-    
-      <col:module document="m45967"/>
-        
-      
-    
+    <col:module document="m62084"/>
+    <col:module document="m62065"/>
+    <col:module document="m62057"/>
+    <col:module document="m62054"/>
+    <col:module document="m29595"/>
+    <col:module document="m61607"/>
+    <col:module document="m60372"/>
+    <col:module document="m60366"/>
+    <col:module document="m14334"/>
+    <col:module document="m60049"/>
+    <col:module document="m60048"/>
+    <col:module document="m60040"/>
+    <col:module document="m60032"/>
+    <col:module document="m60012"/>
+    <col:module document="m60008"/>
+    <col:module document="m59693"/>
+    <col:module document="m59315"/>
+    <col:module document="m58160"/>
+    <col:module document="m58122"/>
+    <col:module document="m58124"/>
+    <col:module document="m58116"/>
+    <col:module document="m58117"/>
+    <col:module document="m58121"/>
+    <col:module document="m57938"/>
+    <col:module document="m56759"/>
+    <col:module document="m57804"/>
+    <col:module document="m57790"/>
+    <col:module document="m57706"/>
+    <col:module document="m57755"/>
+    <col:module document="m57754"/>
+    <col:module document="m57753"/>
+    <col:module document="m57752"/>
+    <col:module document="m57750"/>
+    <col:module document="m57749"/>
+    <col:module document="m57748"/>
+    <col:module document="m57699"/>
+    <col:module document="m57458"/>
+    <col:module document="m52681"/>
+    <col:module document="m52492"/>
+    <col:module document="m52491"/>
+    <col:module document="m52067"/>
+    <col:module document="m51859"/>
+    <col:module document="m50398"/>
+    <col:module document="m45967"/>
   </col:content>
 </col:collection>
